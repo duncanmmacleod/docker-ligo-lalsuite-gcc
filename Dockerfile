@@ -1,6 +1,6 @@
 FROM gcc:8
 
-LABEL name="LALSuite Development - GCC 8" \
+LABEL name="LALSuite Development - GCC 7" \
       maintainer="Adam Mercer <adam.mercer@ligo.org>" \
       date="20181230" \
       support="Best Effort"
