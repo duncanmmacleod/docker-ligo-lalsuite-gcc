@@ -1,4 +1,4 @@
-FROM gcc:8
+FROM gcc:7
 
 LABEL name="LALSuite Development - GCC 7" \
       maintainer="Adam Mercer <adam.mercer@ligo.org>" \
