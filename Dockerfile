@@ -1,8 +1,8 @@
-FROM gcc:8
+FROM gcc:9
 
-LABEL name="LALSuite Development - GCC 8" \
+LABEL name="LALSuite Development - GCC 9" \
       maintainer="Adam Mercer <adam.mercer@ligo.org>" \
-      date="20181230" \
+      date="20190505" \
       support="Best Effort"
 
 # ensure non-interactive debian installation
