@@ -59,27 +59,37 @@ RUN apt-get update && apt-get --assume-yes install autoconf \
       libxml2-dev \
       pkg-config \
       python-all-dev \
+      python-dateutil \
       python-dev \
+      python-freezegun \
       python-glue \
+      python-gwdatafind \
       python-gwpy \
       python-h5py \
       python-healpy \
       python-ligo-gracedb \
       python-ligo-segments \
+      python-mock \
       python-numpy \
+      python-pathlib \
+      python-pytest \
       python-reproject \
       python-scipy \
       python-seaborn \
       python-shapely \
       python-six \
       python3-all-dev \
+      python3-dateutil \
       python3-dev \
+      python3-freezegun \
       python3-glue \
+      python3-gwdatafind \
       python3-gwpy \
       python3-h5py \
       python3-healpy \
       python3-ligo-segments \
       python3-numpy \
+      python3-pytest \
       python3-scipy \
       python3-shapely \
       python3-six \
